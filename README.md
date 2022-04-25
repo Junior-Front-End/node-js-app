@@ -1,9 +1,9 @@
-# info (v1.2)
-2020.04.23
+# node-js-app (v1.0)
+2020.04.25
 
-## in this version
+## in this version (v1.0)
 
-* CRUD Product
+
 
 
 ## database info
